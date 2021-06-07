@@ -1,0 +1,26 @@
+Johnson
+9 8 9
+Andrews
+4 6 3
+Jones
+7 8 5
+Archibald
+2 1 1
+Kat
+9 6 8
+Arnold
+6 5 3
+Kelly
+6 8 4
+Arthur
+9 9 2
+Kendal
+1 3 4
+Acheson
+8 8 5
+Kennedy
+9 9 6
+Attwood
+2 6 6
+Kennett
+4 4 7

@@ -1,0 +1,10 @@
+12345.67
+Locale.Canada
+4.9e-325
+Locale.German
+5680065.4569
+Locale.US
+3998.432
+Locale.Britain
+234590.64
+Locale.France
